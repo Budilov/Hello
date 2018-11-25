@@ -1,2 +1,4 @@
 Привет, ребята
+Hello, people
 Миру тоже мир
+Hello, world
